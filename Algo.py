@@ -86,4 +86,4 @@ def dijkstra(graph, s_v, e_v):
 
     print(ans[::-1])
 
-dijkstra(graph_2,1,5)
+dijkstra(graph,0,1)
